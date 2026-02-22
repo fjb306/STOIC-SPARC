@@ -144,4 +144,9 @@ Chief AI Scientist, RELCOG Labs
 
 # **© 2026 RELCOG Labs LLC**  
 Shared for research, education, and professional collaboration.  
+
 All rights reserved.
+
+---
+
+**License:** This repository is released under the Creative Commons Attribution–NonCommercial 4.0 International License (CC BY-NC 4.0).
